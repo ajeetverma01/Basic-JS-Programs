@@ -1,3 +1,3 @@
 **Basic JavaScript Programs Collection**  
 
-This collection features fundamental JavaScript programs designed to enhance problem-solving skills and deepen understanding of core concepts. It includes a variety of programs covering loops, functions, arrays, objects, string manipulations, mathematical operations, and DOM manipulation. Ideal for beginners and those looking to strengthen their JavaScript foundation, these programs serve as building blocks for more advanced projects.
+This collection features fundamental JavaScript programs that I created to learn and strengthen my understanding of core concepts. It includes various programs covering loops, functions, arrays, objects, string manipulations, and mathematical operations. Ideal for beginners, these programs serve as practical exercises to build a solid JavaScript foundation and prepare for more advanced projects.
